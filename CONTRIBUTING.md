@@ -3,7 +3,7 @@ Trên trang **QLThongTinSinhVien** vừa tạo, chọn HTTPS để copy HTTPS cl
 
 *Chúng ta cũng có thể dùng SSH nhưng phải thiết lập SSH key, cái này mình sẽ nói ở sau*
 
-<img src="http://i.imgur.com/PyjB9l6.png">
+<img src="http://i.imgur.com/BBr6Mcl.png">
 
 Dùng lệnh `clone` để lấy repo về máy: 
 
