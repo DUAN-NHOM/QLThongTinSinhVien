@@ -63,7 +63,7 @@
 	<!--  -->
 	<h1>Tài liệu dành cho nhà phát triển</h1>
 	<p>
-		Tài liệu phát triển của Oracle. <a href="https://en.wikipedia.org/wiki/Oracle_Corporation" target="_blank">Oracle Corporation</a>.
+		Tài liệu phát triển của Oracle. <a href="https://github.com/DUAN-NHOM/QLThongTinSinhVien/blob/master/Developer.md" target="_blank">Tại đây</a>.
 	</p>
 	<!--  -->
 	<h1>Tài liệu thiết kế</h1>
