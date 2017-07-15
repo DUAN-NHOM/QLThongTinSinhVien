@@ -1,4 +1,5 @@
-﻿public class loadTable {
+﻿
+ public class loadTable {
     public static PreparedStatement pst =null; // biến thực thi sql
     public static ResultSet rs = null; //kết quả trả về dạng 1 bảng hay 1 dòng dữ liệu
     public static Connection conn = ConnectDAL.getConnect(); // Lấy từ DAL
@@ -61,6 +62,7 @@ public class thongTin {
             JOptionPane.showMessageDialog(null,"Mã sinh viên "+MaSV+" đã tồn tại","Thông Báo",1);
         }
     }
+    
     // Sửa thông tin sv    
     public static void suaThongTinSV( String MaSV1,String MaSV, String DiaChi, String SDT, String Email, String Facebook, String DoanVien, String SoCMND, String DanToc)
     {
