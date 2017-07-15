@@ -1,5 +1,5 @@
 Clone - Lấy kho chứa về máy 
-Trên trang **DUAN-NHOM** vừa tạo, chọn HTTPS để copy HTTPS clone URL 
+Trên trang **QLThongTinSinhVien** vừa tạo, chọn HTTPS để copy HTTPS clone URL 
 
 *Chúng ta cũng có thể dùng SSH nhưng phải thiết lập SSH key, cái này mình sẽ nói ở sau*
 
@@ -9,18 +9,18 @@ Dùng lệnh `clone` để lấy repo về máy:
 
      $ git clone https://github.com/nhomubuntu/baitoan.git
 
-Sau khi thực hiện lệnh này, một directory tên là **nhomubuntu** xuất hiện trên máy của bạn. Vị trí lưu directory này tại nơi bạn thực hiện lệnh.
+Sau khi thực hiện lệnh này, một directory tên là **QLThongTinSinhVien** xuất hiện trên máy của bạn. Vị trí lưu directory này tại nơi bạn thực hiện lệnh.
 
-Bên trong thư mục **nhomubuntu** sẽ có:
+Bên trong thư mục **QLThongTinSinhVien** sẽ có:
 * 1 file **README.md**
 Có thể coi là file giới thiệu, chúng ta có thể sửa bằng bất kỳ trình soạn thảo nào. 
 * 1 dir **.git** (bị ẩn) chứa cấu hình Git.
-Chúng ta có thể thêm các file khác vào thư mục **nhomubuntu** này để đưa lên Github.
+Chúng ta có thể thêm các file khác vào thư mục **QLThongTinSinhVien** này để đưa lên Github.
 
 
 #### Add, Commit, Push - Đưa file lên Github  
-#####Lưu ý là những thao tác tiếp theo phải thực hiện trong thư mục **nhomubuntu**
-Giả sử, bạn tạo một file **hello_git.cpp** trong thư mục **nhomubuntu**.
+#####Lưu ý là những thao tác tiếp theo phải thực hiện trong thư mục **QLThongTinSinhVien**
+Giả sử, bạn tạo một file **hello_git.cpp** trong thư mục **QLThongTinSinhVien**.
 Để thực hiện `add` ta dùng lệnh:
 
     $ git add hello_git.cpp
@@ -48,7 +48,7 @@ Lưu ý là password khi mình nhập không hiện lên, bạn cứ gõ bình t
 
 
 ######DONE
-Bạn load lại trang **nhomubuntu** trên Github, file **hello_git.cpp** mà xuất hiện thì bạn đã thành công.
+Bạn load lại trang **QLThongTinSinhVien** trên Github, file **hello_git.cpp** mà xuất hiện thì bạn đã thành công.
 <img src="http://i.imgur.com/TAjssLZ.png">
 
 
@@ -75,7 +75,7 @@ Và cuối cùng thì
     $ git push origin master 
 
 #### Pull - Lấy file về máy
-Giả sử, trong cái **nhomubuntu** có sự thay đổi như thêm file hay file nào đó được sửa nhưng ở máy của bạn chưa cập nhật điều này
+Giả sử, trong cái **QLThongTinSinhVien** có sự thay đổi như thêm file hay file nào đó được sửa nhưng ở máy của bạn chưa cập nhật điều này
 Bạn cần `pull` về máy:
 
     $ git pull
