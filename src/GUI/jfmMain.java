@@ -265,6 +265,7 @@ public class jfmMain extends javax.swing.JFrame {
 
     private void jmeThongTinActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jmeThongTinActionPerformed
       jfmThongTin tt = new jfmThongTin();
+      this.setVisible(false);
       tt.show();
     }//GEN-LAST:event_jmeThongTinActionPerformed
 
@@ -280,46 +281,56 @@ public class jfmMain extends javax.swing.JFrame {
 
     private void jmeMonHocActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jmeMonHocActionPerformed
        jfmMonHoc mh = new jfmMonHoc();
+       this.setVisible(false);
+      // mh.setVisible(true);
        mh.show();
     }//GEN-LAST:event_jmeMonHocActionPerformed
 
     private void jmeKetQuaActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jmeKetQuaActionPerformed
        jfmDiem kq= new jfmDiem();
+       this.setVisible(false);
        kq.show();
     }//GEN-LAST:event_jmeKetQuaActionPerformed
 
     private void jmeMaSvTkActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jmeMaSvTkActionPerformed
         jfmTimKiemMaSV tkm= new jfmTimKiemMaSV();
+        this.setVisible(false);
         tkm.show();
     }//GEN-LAST:event_jmeMaSvTkActionPerformed
 
     private void jmeDiemTkActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jmeDiemTkActionPerformed
         jfmSvDiem svd = new jfmSvDiem();
+        this.setVisible(false);
         svd.show();
     }//GEN-LAST:event_jmeDiemTkActionPerformed
 
     private void jmeToTkActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jmeToTkActionPerformed
        jfmSVTo svt = new jfmSVTo();
+       this.setVisible(false);
        svt.show();
     }//GEN-LAST:event_jmeToTkActionPerformed
 
     private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed
         jfmMonHoc mh = new jfmMonHoc();
+        this.setVisible(false);
         mh.show();
     }//GEN-LAST:event_jButton2ActionPerformed
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
        jfmSinhVien sv = new jfmSinhVien();
+       this.setVisible(false);
        sv.show();
     }//GEN-LAST:event_jButton1ActionPerformed
 
     private void jButton3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton3ActionPerformed
         jfmDiem diem = new jfmDiem();
+        this.setVisible(false);
         diem.show();
     }//GEN-LAST:event_jButton3ActionPerformed
 
     private void jButton4ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton4ActionPerformed
         jfmTimKiemMaSV tk = new jfmTimKiemMaSV();
+        this.setVisible(false);
         tk.show();
     }//GEN-LAST:event_jButton4ActionPerformed
 
