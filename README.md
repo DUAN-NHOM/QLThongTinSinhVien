@@ -13,8 +13,10 @@ Dự án Quản lý thông tin sinh viên
     <li>Công tác quản lí bộ hồ sơ sinh viên của trường Đại Học Thông Tin Liên Lạc gồm 2 hệ đào tạo: Đại Học và Cao Đẳng.</li>
     <li>Công tác quản lí sinh viên liên quan đến các phòng đào tạo, phòng tài vụ, phòng công tác học sinh sinh viên...v.v (bộ phận quản lý).</li>
    </ul>
-    [Dự án được đưa lên kho lưu trữ, phân nhánh cho các thành viên và chấp nhận công tác viên](https://github.com/DUAN-NHOM/DUAN-NHOM/branches)
-    **[License]**(https://github.com/DUAN-NHOM/DUAN-NHOM/blob/master/Th%C3%B4ng%20tin%20v%E1%BB%81%20gi%E1%BA%A5y%20ph%C3%A9p.md)
+    **Dự án được đưa lên kho lưu trữ, phân nhánh cho các thành viên và chấp nhận công tác viên**
+    [Tại đây](https://github.com/DUAN-NHOM/DUAN-NHOM/branches)
+    **Thông tin về Giấy phep**
+    [License](https://github.com/DUAN-NHOM/DUAN-NHOM/blob/master/Th%C3%B4ng%20tin%20v%E1%BB%81%20gi%E1%BA%A5y%20ph%C3%A9p.md)
     **Thông tin về tổ chức mã nguồn**
     
     **Chuẩn lập trình**
