@@ -1,5 +1,9 @@
-﻿
- public class loadTable {
+﻿...
+ 
+ 
+ 
+ //
+    public class loadTable {
     public static PreparedStatement pst =null; // biến thực thi sql
     public static ResultSet rs = null; //kết quả trả về dạng 1 bảng hay 1 dòng dữ liệu
     public static Connection conn = ConnectDAL.getConnect(); // Lấy từ DAL
