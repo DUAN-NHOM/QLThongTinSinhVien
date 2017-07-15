@@ -100,7 +100,7 @@
           <Color blue="ff" green="ff" red="ff" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="2" name="C:\Users\THANG NGUYEN\Desktop\QLSV1C\QLSV1C\build\classes\img\key.png"/>
+          <Image iconType="3" name="/img/key.png"/>
         </Property>
       </Properties>
     </Component>

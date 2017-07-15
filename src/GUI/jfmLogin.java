@@ -61,7 +61,7 @@ public class jfmLogin extends javax.swing.JFrame {
         jLabel1.setText("QUẢN LÍ HỌC SINH LỚP 1C");
 
         jLabel4.setBackground(new java.awt.Color(255, 255, 255));
-        jLabel4.setIcon(new javax.swing.ImageIcon("C:\\Users\\THANG NGUYEN\\Desktop\\QLSV1C\\QLSV1C\\build\\classes\\img\\key.png")); // NOI18N
+        jLabel4.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/key.png"))); // NOI18N
 
         jPanel1.setBorder(javax.swing.BorderFactory.createTitledBorder(null, "Đăng Nhập", javax.swing.border.TitledBorder.DEFAULT_JUSTIFICATION, javax.swing.border.TitledBorder.DEFAULT_POSITION, new java.awt.Font("Tahoma", 1, 13))); // NOI18N
 
