@@ -63,12 +63,12 @@
 	<!--  -->
 	<h1>Tài liệu dành cho nhà phát triển</h1>
 	<p>
-		Tài liệu phát triển của Oracle. <a href="https://github.com/DUAN-NHOM/QLThongTinSinhVien/blob/master/Developer.md" target="_blank">Tại đây</a>.
+		Tài liệu phát triển . <a href="https://github.com/DUAN-NHOM/QLThongTinSinhVien/blob/master/Developer.md" target="_blank">Tại đây</a>.
 	</p>
 	<!--  -->
 	<h1>Tài liệu thiết kế</h1>
 	<p>
-		Tài liệu thiết kế của <a href="https://en.wikipedia.org/wiki/James_Gosling" target="_blank">James Gosling</a> và <a href="https://vi.wikipedia.org/wiki/Sun_Microsystems" target="_blank">Sun Microsystems</a>.
+		Tài liệu thiết kế . <a href="https://github.com/DUAN-NHOM/QLThongTinSinhVien/blob/master/Design.md" target="_blank">Tại đây</a>.
 	</p>
 	<!--  -->
 	<h1>Danh sách lỗi</h1>
