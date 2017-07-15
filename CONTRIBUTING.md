@@ -1,7 +1,7 @@
 Clone - Lấy kho chứa về máy 
 Trên trang **QLThongTinSinhVien** vừa tạo, chọn HTTPS để copy HTTPS clone URL 
 
-*Chúng ta cũng có thể dùng SSH nhưng phải thiết lập SSH key, cái này mình sẽ nói ở sau*
+*Chúng ta cũng có thể dùng SSH nhưng phải thiết lập SSH key*
 
 <img src="http://i.imgur.com/BBr6Mcl.png">
 
