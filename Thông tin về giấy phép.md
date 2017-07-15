@@ -1,6 +1,6 @@
 # DUAN-NHOM
-Dự án Quản lý thông tin sinh viên
-                                            **GIẤY PHÉP CÔNG CỘNG GNU (GPL)**
+<p>Dự án Quản lý thông tin sinh viên</p>
+                                            <p><H1>GIẤY PHÉP CÔNG CỘNG GNU (GPL)</H1></p>
 
  
     Giấy phép công cộng GNU
