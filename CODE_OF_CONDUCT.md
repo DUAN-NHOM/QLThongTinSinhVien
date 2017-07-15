@@ -73,7 +73,7 @@ Quy tắc ứng xử và các thủ tục liên quan của nó cũng áp dụng 
 
 ## 9. Thông tin liên hệ
 
- nguyenvancanh201@gmail.com
+nguyenvancanh201@gmail.com
 
 ## 10. Giấy phép và phân bổ
 Quy tắc ứng xử này được phân phối theo giấy phép [Creative Commons Attribution-ShareAlike] (http://creativecommons.org/licenses/by-sa/3.0/).
