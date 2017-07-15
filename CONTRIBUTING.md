@@ -5,4 +5,4 @@ Trên trang **DUAN-NHOM** vừa tạo, chọn HTTPS để copy HTTPS clone URL
 
 <img src="http://i.imgur.com/PyjB9l6.png">
 
-Dùng lệnh `clone` để lấy repo về máy:
+Dùng lệnh `clone` để lấy respo về máy :
