@@ -49,7 +49,6 @@ Lưu ý là password khi mình nhập không hiện lên, bạn cứ gõ bình t
 
 ######DONE
 Bạn load lại trang **QLThongTinSinhVien** trên Github, file **hello_git.cpp** mà xuất hiện thì bạn đã thành công.
-<img src="http://i.imgur.com/TAjssLZ.png">
 
 
 ######Nếu bạn đang có một thư mục trong máy (giả sử tên là playground), bạn muốn đẩy nó lên một repo mới
