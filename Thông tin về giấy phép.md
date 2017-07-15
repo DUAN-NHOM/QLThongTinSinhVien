@@ -87,7 +87,7 @@ TRONG TẤT CẢ CÁC TRƯỜNG HỢP TRỪ KHI CÓ YÊU CẦU CỦA LUẬT PHÁ
 
 KẾT THÚC CÁC ĐIỀU KIỆN VÀ ĐIỀU KHOẢN.
 
-Áp dụng những điều khoản trên như thế nào đối với chương trình của bạn
+Áp dụng những điều khoản trên như thế nào đối với chương trình của bạn.
 
 Nếu bạn xây dựng một chương trình mới, và bạn muốn cung cấp một cách tối đa cho công chúng sử dụng, thì biện pháp tốt nhất để đạt được điều này là phát triển chương trình đó thành phần mềm tự do để ai cũng có thể cung cấp lại và thay đổi theo những điều khoản như trên. 
 
