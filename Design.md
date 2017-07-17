@@ -18,8 +18,12 @@
 <p><H3>3.	Lưu trữ và truy xuất hồ sơ</H3></p>
 <p>Lưu trữ hồ sơ được thực hiện:Nhập thông tin về sinh viên theo đơn vị lớp, MSSV gồm các mục như STT, họ tên, MSSV,..... </p>
 <p>Truy xuất hồ sơ: Tìm kiếm xác nhận một sinh viên được thực hiện dễ dàng nhờ tiện ích tìn kiếm. Biết được tên SV sẽ xác định được thông tin sinh viên và nhanh chóng tìm được hồ sơ lưu gốc</p>
+<p><H4> Trước tiên các bạn cần tải và cài đặt SQL Server 2012</H4></p>
+<p><a href="http://o7planning.org/vi/10297/huong-dan-cai-dat-va-cau-hinh-sql-server-express-2012" target="_blank"> Xem tại đây</a>.</p>
+<li>Cài đặt Netbean</li>
+<p><a href="http://techbuba.com/threads/huong-dan-cai-dat-netbeans-ide.1280/" target="_blank"> Xem tại đây</a>.</p>
 <p><H3>II.	Sơ đồ phân rã chức năng (BFD)</H3></p>
-<p><img src="https://scontent.fdad3-2.fna.fbcdn.net/v/t35.0-12/19204973_874267442726005_1808199394_o.png?oh=3b3795ea4c2faf7f15db201f46ec4047&oe=596C0B78"></p>
+<p><img src="https://scontent.fdad3-1.fna.fbcdn.net/v/t35.0-12/19204973_874267442726005_1808199394_o.png?oh=5c1ebfb1466e99873b96baf6faf30e1c&oe=596E05B8"></p>
 <p><H3>III.	Sơ đồ luồng dữ liệu (DFD)</H3></p>
 <p>Mức 0</p>
 <p><img src="https://scontent.fdad3-2.fna.fbcdn.net/v/t34.0-12/20068057_874267556059327_575737981_n.png?oh=00156b115aa4a041c6c466df06a4a749&oe=596C7FC7"></p>
