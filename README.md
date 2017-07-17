@@ -12,9 +12,9 @@
             Hỗ trợ công tác quản lý của trường được chính xác, nhanh nhạy và làm việc có hiệu quả.
             </p>
         <p> *Mục tiêu:*
-    Giúp tổng hợp tất cả thông tin , quản lí toàn bộ thông tin sinh viên trường Đại Học Thông Tin Liên Lạc từ lúc nhập học đến lúc ra trường.
-    Công tác quản lí bộ hồ sơ sinh viên của trường Đại Học Thông Tin Liên Lạc gồm 2 hệ đào tạo: Đại Học và Cao Đẳng.
-    Công tác quản lí sinh viên liên quan đến các phòng đào tạo, phòng tài vụ, phòng công tác học sinh sinh viên...v.v (bộ phận quản lý).
+    Giúp tổng hợp tất cả thông tin , quản lí toàn bộ thông tin sinh viên lớp 1C từ lúc nhập vào lớp đến lúc ra trường.
+    Công tác quản lí bộ hồ sơ sinh viên của lớp 1C : điểm,thông tin về sinh viên
+    Công tác quản lí sinh viên liên quan đến các phòng đào tạo, phòng tài vụ, phòng công tác học sinh sinh viên...v.v.
     </p>
     <!--  -->
 	<h1>Dự án được đưa lên kho lưu trữ, phân nhánh cho các thành viên và chấp nhận công tác viên</h1>
