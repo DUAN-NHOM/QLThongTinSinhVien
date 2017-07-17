@@ -5,7 +5,7 @@
 <body>
 	<p><center><img src="http://i.imgur.com/zseb0Zz.png"></center></p>
 	<!--  -->
-	<h1>Quản Lí thông Tin Sinh Viên</h1>
+	<h1>Quản Lí thông Tin Sinh Viên Lớp DHCN1C</h1>
 	  <p>  *Mô tả:*                                
             Là kênh tương tác thông tin giữa nhà trường và sinh viên
             Là công cụ để sinh viên chủ động tra cứu thông tin
